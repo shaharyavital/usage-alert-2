@@ -1,0 +1,5 @@
+{
+  "name": "usage-alert-2",
+  "owner": { "name": "shaharyavital" },
+  "plugins": [{ "name": "usage-alert", "source": "./" }]
+}
